@@ -16,7 +16,6 @@ class CloudinaryConfig @Inject constructor(
     init {
         val config = mapOf(
 
-
         )
         MediaManager.init(context, config)
     }
