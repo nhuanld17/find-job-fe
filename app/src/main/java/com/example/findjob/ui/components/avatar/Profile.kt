@@ -29,8 +29,8 @@ import androidx.navigation.NavController
 import coil.compose.rememberAsyncImagePainter
 import com.example.findjob.R
 import com.example.findjob.utils.InfoManager
-import com.example.findjob.viewmodel.RecruiterProfileViewModel
 import com.example.findjob.viewmodel.ProfileAvatarState
+import com.example.findjob.viewmodel.RecruiterProfileViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
